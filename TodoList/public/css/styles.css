@@ -1,0 +1,14 @@
+
+  body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: linear-gradient(to bottom, #007bff, #fff);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+  
+  .list-group-item {
+    font-size: 20px;
+    
+  }
